@@ -1,6 +1,20 @@
 # Teorema-de-Thevenin-
 **1.OBJETIVOS**
 
+Objetivos generales:
+
+	-Definir y evaluar un circuito equivalente de Thévenin. 
+  
+	-Analizar y comparar un circuito eléctrico con su equivalente de Thévenin. 
+  
+Objetivos específicos:
+
+	-Demostrar el Teorema de Thévenin. 
+  
+	-Identificar la resistencia de Thévenin R_TH, el voltaje de Thévenin  V_TH y los terminales. 
+  
+	-Determinar la corriente que pasa a través de una resistencia de carga conectada a los terminales del circuito equivalente y contrastarlo con su circuito original.
+
 **2.MARCO TEÓRICO**
 
 **3.DIAGRAMAS**
@@ -54,5 +68,7 @@ El teorema de Thévenin facilita el análisis de un circuito complejo llegando a
 **10.BIBLIOGRAFÍA**
 
 Floyd, Thomas L., (2007). Principios de circuitos eléctricos. México. PEARSON EDUCACIÓN
+
+Xnomind. (2019) Teorema de Thevenin explicado para que lo entiendas. Teorema. 
 
 **11.ANEXOS**
