@@ -13,7 +13,7 @@ Objetivos específicos:
   
 -Identificar la resistencia de Thévenin R_TH, el voltaje de Thévenin  V_TH y los terminales. 
   
--Determinar la corriente que pasa a través de una resistencia de carga conectada a los terminales del circuito equivalente y contrastarlo con su circuito original.
+-Determinar la corriente que fluye a través de una resistencia de carga conectada a los terminales del circuito equivalente y contrastarlo con su circuito original.
 
 **2.MARCO TEÓRICO**
 
