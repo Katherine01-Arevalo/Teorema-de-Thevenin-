@@ -3,19 +3,25 @@
 
 Objetivos generales:
 
-	-Definir y evaluar un circuito equivalente de Thévenin. 
-  
-	-Analizar y comparar un circuito eléctrico con su equivalente de Thévenin. 
-  
+-Definir y evaluar un circuito equivalente de Thévenin.
+
+-Analizar y comparar un circuito eléctrico con su equivalente de Thévenin. 
+
 Objetivos específicos:
 
-	-Demostrar el Teorema de Thévenin. 
+-Demostrar el Teorema de Thévenin. 
   
-	-Identificar la resistencia de Thévenin R_TH, el voltaje de Thévenin  V_TH y los terminales. 
+-Identificar la resistencia de Thévenin R_TH, el voltaje de Thévenin  V_TH y los terminales. 
   
-	-Determinar la corriente que pasa a través de una resistencia de carga conectada a los terminales del circuito equivalente y contrastarlo con su circuito original.
+-Determinar la corriente que pasa a través de una resistencia de carga conectada a los terminales del circuito equivalente y contrastarlo con su circuito original.
 
 **2.MARCO TEÓRICO**
+
+![Thevenin_teorico](https://github.com/Katherine01-Arevalo/Teorema-de-Thevenin-/blob/main/img/Thevenin_teorico.png)
+
+La figura a continuación muestra en la parte quierda el circuito que se va a reducir y en la derecha el equivalente de Thévenin.
+
+![Equivalente](https://github.com/Katherine01-Arevalo/Teorema-de-Thevenin-/blob/main/img/Thevenin_equivalent.png)
 
 **3.DIAGRAMAS**
 
@@ -23,6 +29,7 @@ Objetivos específicos:
 
 **4.LISTA DE COMPONENTES**
 
+![componentes](https://github.com/Katherine01-Arevalo/Teorema-de-Thevenin-/blob/main/img/components.png)
 
 **5.EXPLICACIÓN**
 
